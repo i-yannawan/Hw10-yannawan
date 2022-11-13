@@ -1,3 +1,3 @@
 # Hw10-yannawan 
-name: Yanawan inthasorn
+Name: Yanawan  Surname : inthasorn
 ID: 63-010725-2003-2
